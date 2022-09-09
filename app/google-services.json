@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330160770137",
+    "project_id": "farmer-near-me-b9ff5",
+    "storage_bucket": "farmer-near-me-b9ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330160770137:android:73c81c9a0b94bf034b3548",
+        "android_client_info": {
+          "package_name": "com.mindunit.farmernearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330160770137-40sh175km1u6vo4uellohne1k3h2iei5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVC03UGk1kSy-PsrsZ4QsR9y4jkuk7hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330160770137-40sh175km1u6vo4uellohne1k3h2iei5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
